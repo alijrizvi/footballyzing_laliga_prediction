@@ -43,6 +43,10 @@ Feature Engineering: New features are created from raw data, such as:
 - Wins and Points per match proved to be the most important predictors of total points earned in the future.
 - No biases were discovered in the Training and Testing of models.
 
+## Highlight(s)
+
+<img width="2624" height="870" alt="image" src="https://github.com/user-attachments/assets/8f38749f-43c7-43eb-81ec-1a16e0277b30" />
+
 ## Credits
 A significant portion of this project, specifically more than half of the conceptualization and implementation, was inspired by and directly adapted from the excellent tutorials and insights provided by Anas Riad on his YouTube channel. His work was instrumental in guiding the development of the data processing and model building aspects of this project.
 
